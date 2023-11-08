@@ -1,0 +1,52 @@
+header{
+    background-color: pink;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: 0;
+    z-index: 0;
+    font-size:20px ;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 30px;
+}
+h1{
+    font-family: 'Galada', cursive;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
+.center{
+    text-align: center;
+}
+.socials{
+    width: 50px;
+    display:block;
+    display: inline-flex;
+}
+.pinkborder{
+    background-color: white;
+    border-color: pink;
+    border-style: solid;
+    padding: 1rem;
+    margin: 1rem;
+}
+nav>a{
+    color: black;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    font-weight: 900;
+    display: inline-block;
+    align-items: center;
+    font-family: 'Galada', cursive;
+}
+.logo{
+    max-width: 30%;
+}
+.pink{
+    background-color: pink;
+    padding: 1rem;
+}
